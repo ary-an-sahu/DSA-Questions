@@ -10,72 +10,84 @@
  */
 class Solution {
 public:
-    ListNode* getMiddle(ListNode* head, ListNode* &middleNodeKaPrev) {
-        ListNode* slow = head;
-        ListNode* fast = head;
 
-        while(fast != NULL) {
-            fast = fast -> next;
-            if(fast != NULL) {
-                fast = fast -> next;
+    ListNode* getMiddle(ListNode* head,ListNode* &middleNodeKaPrev){
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        while(fast!=NULL){
+            fast = fast->next;
+            //check kro null toh nhi hai fast?
+            if(fast!=NULL){
+                fast = fast->next;
                 middleNodeKaPrev = slow;
+                //abb slow ko bhi ek step badha do bhai mere
                 slow = slow -> next;
             }
         }
         return slow;
     }
-    ListNode* reverseList(ListNode* & prev, ListNode* &curr) {
-        while(curr != NULL) {
+
+    ListNode* reverseList(ListNode* &prev, ListNode* &curr){
+
+        while(curr!=NULL){
             ListNode* forward = curr->next;
             curr->next = prev;
-            prev= curr;
+            prev = curr;
             curr = forward;
         }
         return prev;
     }
+
     bool isPalindrome(ListNode* head) {
-        if(head == NULL) {
-            //LL is empty
+        if(head==NULL){
+            // LL is empty
             return true;
         }
-        if(head->next == NULL ) {
-            //single node
+        if(head->next == NULL){
+            //single node present hai
             return true;
         }
-
-        //travel till middle node and break the LL in 2 halves
-        ListNode* firstHalfHead = head;
+        // travel till middle node and break the LL from middle
+        ListNode* firstPartHead = head;
         ListNode* middleNodeKaPrev = NULL;
-        ListNode* middleNode = getMiddle(head, middleNodeKaPrev); 
-        //break
-        middleNodeKaPrev -> next = NULL;
+        ListNode* middleNode = getMiddle(head,middleNodeKaPrev);
+        // break kr do linked list ko 
+        middleNodeKaPrev->next = NULL;
 
-        //reverse the second half
+        // reverse second half
         ListNode* prev = NULL;
         ListNode* curr = middleNode;
-        ListNode* secondHalfHead = reverseList(prev, curr);
 
-        //compare both the halves and decide T/F
-        //even len wale case me dono part ki length equal hogi
-        //odd wale case , second half ki length badi hogi by 1 
-        //that's why main comparison hamesha first half ki length k hisaab se karunga 
-        ListNode* temphead1 = firstHalfHead;
-        ListNode* temphead2 = secondHalfHead;
-        while(temphead1 != NULL) {
-            if(temphead1 ->val != temphead2 ->val) {
-                //not a palindrome
+        ListNode* secondPartHead = reverseList(prev,curr);
+
+        // compare both parts -> equal ->T , !equal -> F
+        // Even length wale case me dono part ki length same hai 
+        // Odd length me second part ki length badi hai 
+        //iska matlab hum loop first part ki length ke equal hi chalayenge
+
+        ListNode* tempHead1 = firstPartHead;
+        ListNode* tempHead2 = secondPartHead;
+
+        while(tempHead1!=NULL){
+            if(tempHead1->val != tempHead2->val){
+                //palindrome nhi hai
                 return false;
             }
-            else {
-                //data equal hai, toh let's move to aage wali nodes
-                temphead1 = temphead1 -> next;
-                temphead2 = temphead2 -> next;
+            else{
+                // values equal hai toh
+                // iska matalab dono pointer ko aage badhao
+                tempHead1= tempHead1->next;
+                tempHead2= tempHead2->next;
+
             }
         }
-        //agar main yaha tk pohoch gya
-        //iska mtlab kahin por bhi 
-        //data mismatch nahi hua
-        //palindrome haib 
+        //yha tak aaya hai toh sare value equal hai 
+        //iska matlab palindrome hai 
+        // iska matlab return true kro bhai
         return true;
+
+        
     }
+
 };
