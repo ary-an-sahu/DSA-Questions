@@ -26,6 +26,12 @@ public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         // k length ke liye hume reverse karna hai 
         
+        if(head==NULL){
+            return head;
+        }
+        if(head->next == NULL){
+            return head;
+        }
         int len = getLength(head);
 
         // condition check to avoid nullpointer error-
