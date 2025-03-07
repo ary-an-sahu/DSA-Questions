@@ -10,7 +10,7 @@ public:
 */
 
 Node* solve(Node* head){
-    if(head==NULL) return nullptr;
+    
     auto it= head;
     auto tail = it;
 
@@ -37,7 +37,7 @@ class Solution {
 public:
     Node* flatten(Node* head) {
 
-
+        if(head==NULL) return nullptr;
         solve(head);
         return head;
 
