@@ -38,6 +38,7 @@ public:
                 result = result+ st.top();
                 st.pop();
                 num =0;
+                sign =1;
             }
 
         }
