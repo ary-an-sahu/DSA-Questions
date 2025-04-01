@@ -26,7 +26,7 @@ public:
        int j = k-1;
        int sum =0 ;
 
-       for(int t=i; t<=j;t++){
+       for(int t=0; t<=k-1;t++){
         sum += nums[t];
        }
        int maxSum = sum;
