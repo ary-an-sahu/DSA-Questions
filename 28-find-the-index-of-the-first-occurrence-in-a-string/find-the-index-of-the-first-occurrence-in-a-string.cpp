@@ -18,8 +18,22 @@ public:
     // }
 
     int strStr(string haystack, string needle){
+        
+        // most easy method - 
+        // return haystack.find(needle);
 
-        return haystack.find(needle);
+        for(int i=0; i<haystack.size();i++){
+            for(int j=i; j<haystack.size();j++){
+
+                string sub = haystack.substr(i,j-i+1);
+                if(sub== needle){
+                    return i;
+                }
+            }
+        }
+        return -1;
+
+
     }
 
 };
