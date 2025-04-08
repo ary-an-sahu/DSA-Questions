@@ -32,10 +32,10 @@ public:
             return 0;
         }
 
-        int leftSubtreeHeight = maxDepth(root->left);
-        int rightSubtreeHeight = maxDepth(root->right);
+        int leftSubtreeHeight = maxDepth(root->left); // L 
+        int rightSubtreeHeight = maxDepth(root->right); // R
         int maxDepth =  max(leftSubtreeHeight, rightSubtreeHeight);
-        int totalDepth = maxDepth+1;
+        int totalDepth = maxDepth+1; // N (1 ko plus kia which is due to root node , voh count nhi hua tha)
         return totalDepth;
     }
 };
