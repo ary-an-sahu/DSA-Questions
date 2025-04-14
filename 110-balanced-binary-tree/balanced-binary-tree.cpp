@@ -70,6 +70,7 @@
             int lh = height(root->left);
             int rh = height(root->right);
 
+            //check for current node is it balanced??
             if(isBalancedT && abs(lh-rh) >1){
                 isBalancedT = false;
             }
