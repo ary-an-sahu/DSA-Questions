@@ -9,4 +9,12 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
