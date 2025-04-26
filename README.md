@@ -9,6 +9,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0009-palindrome-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -16,6 +17,7 @@ Author - Aryan Sahu
 | [0328-odd-even-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +26,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
