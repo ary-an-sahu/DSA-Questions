@@ -33,22 +33,67 @@ public:
     //     return head->next; // Skip the initial 0 node.
     // }
 
-    ListNode* mergeNodes(ListNode* head){
 
-        ListNode* temp  = head->next;
+    //another approach - 
+    // ListNode* mergeNodes(ListNode* head){
+
+    //     ListNode* temp  = head->next;
+    //     int sum = 0;
+
+    //     if(temp == NULL){
+    //         return NULL;
+    //     }
+
+    //     while(temp->val != 0){
+    //         sum = sum+ temp->val;
+    //         temp = temp->next;
+    //     }
+    //     ListNode* newNode = new ListNode(sum);
+
+    //     newNode->next = mergeNodes(temp);
+    //     return newNode;
+    // }
+
+
+    //another approach -
+
+     ListNode* mergeNodes(ListNode* head){
+        
+        if(head == NULL)
+        {
+            return 0;
+        }
+
+        ListNode* slow = head, *fast = head->next, *lastNode = 0;
         int sum = 0;
 
-        if(temp == NULL){
-            return NULL;
+        while(fast){
+
+            if(fast->val != 0){
+                sum += fast ->val ;
+            }
+            else{
+                //fast->val == 0;
+                slow->val = sum;
+                lastNode = slow;
+                slow = slow->next;
+                sum =0;
+            }
+            fast = fast->next;
         }
 
-        while(temp->val != 0){
-            sum = sum+ temp->val;
-            temp = temp->next;
-        }
-        ListNode* newNode = new ListNode(sum);
+        ListNode* temp = lastNode->next;
+        lastNode->next = NULL;
 
-        newNode->next = mergeNodes(temp);
-        return newNode;
+        //deleting remaining nodes to avoid memory leak
+        while(temp){
+            ListNode* nxt = temp->next;
+            delete temp;
+            temp = nxt;
+        }
+
+        return head;
     }
+
+    
 };
