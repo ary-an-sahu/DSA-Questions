@@ -15,6 +15,7 @@ Author - Aryan Sahu
 | ------- |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -23,6 +24,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
