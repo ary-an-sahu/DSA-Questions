@@ -14,6 +14,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -24,6 +25,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Simulation
 |  |
@@ -37,4 +39,16 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
