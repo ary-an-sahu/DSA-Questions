@@ -63,4 +63,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
