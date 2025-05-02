@@ -24,6 +24,7 @@ Author - Aryan Sahu
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -46,6 +47,7 @@ Author - Aryan Sahu
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -67,4 +69,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
