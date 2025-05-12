@@ -65,6 +65,7 @@ Author - Aryan Sahu
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
@@ -77,6 +78,7 @@ Author - Aryan Sahu
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 ## String
 |  |
@@ -98,4 +100,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
