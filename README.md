@@ -70,6 +70,7 @@ Author - Aryan Sahu
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Author - Aryan Sahu
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Author - Aryan Sahu
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -111,4 +114,5 @@ Author - Aryan Sahu
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
