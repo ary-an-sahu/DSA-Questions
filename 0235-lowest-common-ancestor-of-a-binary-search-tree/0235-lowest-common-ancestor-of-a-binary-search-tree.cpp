@@ -11,32 +11,32 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root== NULL){
-            return NULL;
+        if(root == NULL){
+            return 0;
+        }
+
+        //case 1:  p and q both are left side
+        // right-> neglect and q -> select
+        if(p->val < root->val && q->val< root->val){
+            TreeNode* leftAns = lowestCommonAncestor(root->left, p, q);
+            if(leftAns!= NULL){
+                return leftAns;
+            }
         }
         
-        if(root->val ==  p->val){
-            return p;
-        }
-        if(root->val == q->val){
-            return q;
+
+        //case 2:  p and q both are right side
+        if(p->val> root->val && q->val > root->val){
+            TreeNode* rightAns = lowestCommonAncestor(root->right, p, q);
+            if(rightAns != NULL){
+                return rightAns;
+            }
         }
 
-        TreeNode* left = lowestCommonAncestor(root->left, p ,q);
-        TreeNode* right = lowestCommonAncestor(root->right, p ,q);
-        // 4 cases - 
-        if(left == NULL && right == NULL)  {
-            return NULL;
-        }
 
-        else if(left != NULL && right == NULL){
-            return left;
-        }
-        else if(left== NULL && right != NULL){
-            return right;
-        }
-        else{
-            return root;
-        }
+
+        //case 3:  p in left subtree and q are on different side
+        //case 4:  q in left subtree and p are on different side
+        return root;
     }
 };
