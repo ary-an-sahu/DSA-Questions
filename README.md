@@ -66,6 +66,7 @@ Author - Aryan Sahu
 | [0094-binary-tree-inorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -82,6 +83,7 @@ Author - Aryan Sahu
 | [0094-binary-tree-inorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -101,6 +103,7 @@ Author - Aryan Sahu
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -112,6 +115,7 @@ Author - Aryan Sahu
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
