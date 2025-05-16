@@ -118,6 +118,7 @@ Author - Aryan Sahu
 | ------- |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Author - Aryan Sahu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
