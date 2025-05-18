@@ -11,60 +11,57 @@
  */
 class Solution {
 public:
-
-    int getMax(TreeNode* root){
-
+    int findMax(TreeNode* root){
         if(!root) return -1;
 
         while(root->right){
-            root = root -> right;
+            root = root->right;
         }
-
-        return root ->val;
+        return root->val;
     }
+
+
 
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root) return 0;
-
         TreeNode* temp = root;
+
         if(temp->val == key){
-            // cases - 
-            //with zero child
-            if(temp ->left == NULL && temp ->right == NULL){
-                delete temp;
+            //if root empty
+            if(temp->left == NULL && temp->right == NULL){
+                delete temp ;
                 return NULL;
             }
-            // with right child only
-            if(temp->right!= NULL && temp->left == NULL){
+            //if right node only present
+            if(temp->left == NULL && temp->right != NULL){
                 TreeNode* rightAns = temp->right;
                 delete temp;
                 return rightAns;
             }
-            // with left child only
-            if(temp->left!= NULL && temp->right == NULL){
+            //if left node only present
+            if(temp->left != NULL && temp->right == NULL){
                 TreeNode* leftAns = temp->left;
                 delete temp;
                 return leftAns;
             }
-            //with both the children
-            if(temp->left != NULL && temp->right != NULL){
-                int maxVal =  getMax(root->left);
+            // if both nodes are present 
+            if(temp->left != NULL && temp ->right != NULL){
+                int maxVal = findMax(root->left);
                 root->val = maxVal;
 
-                root->left = deleteNode(temp->left  ,maxVal);
-                return root;
+                temp->left = deleteNode(temp->left, maxVal);
             }
         }
-
         else{
-            //not found 
-            if( key> temp->val ){
-                temp -> right = deleteNode(temp->right,key);
+            //key not found 
+
+            if(key> root->val){
+                root->right = deleteNode(root->right,key);
             }
-            if( key< temp->val ){
-                temp ->left = deleteNode(temp->left,key);
+            if(key< root->val){
+                root->left = deleteNode(root->left,key);
+              
             }
-            
         }
 
         return root;
