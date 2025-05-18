@@ -12,41 +12,41 @@
 class Solution {
 public:
 
-    
-    void inorderTraversal(TreeNode* &root, vector<int> &arr){
-
-        
-        if(!root) return ;
-        inorderTraversal(root->left,arr);
-        arr.push_back(root->val);
-        inorderTraversal(root->right,arr);
-    }
-
-    bool checkTwoSum(vector<int> &arr, int target){
-        int l =0; 
-        int r = arr.size() -1;
+    bool solve(vector<int> &arr,int k){
+        int l = 0;
+        int r = arr.size()-1;
 
         while(l<r){
-
             int sum = arr[l] + arr[r];
-            if(sum == target){
+
+            if(sum == k ){
                 return true;
             }
-            if(sum> target){
-                r--;
-
-            }
-            if(sum< target){
+            if(sum < k){
                 l++;
             }
+            else{
+                r--;
+            }
         }
+
         return false;
     }
 
+    void inorder(TreeNode* &root,vector<int> &arr){
+        if(!root) return;
+        
+        inorder(root->left, arr);
+        arr.push_back(root->val);
+        inorder(root->right,arr);
+    }
+
+
+
     bool findTarget(TreeNode* root, int k) {
         vector<int> arr;
-        inorderTraversal(root, arr);
-        bool ans = checkTwoSum(arr,k);
+        inorder(root,arr);
+        bool ans = solve(arr,k);
         return ans;
     }
 };
