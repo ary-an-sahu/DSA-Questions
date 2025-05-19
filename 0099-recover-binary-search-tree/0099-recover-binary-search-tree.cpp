@@ -10,31 +10,35 @@
  * };
  */
 class Solution {
-
-    TreeNode* FV=0 ,*SV =0, *prev = 0;// firstviolation , secondviolation
 public:
-    
-    void solve(TreeNode* curr){
-        if(!curr) return ;
-
-        //inorder traversal kro
-        solve(curr->left);
-
-        if(prev && prev->val > curr->val){
-
-            if(!FV){
-                FV = prev;
-            }
-            SV = curr;
-        }
-        prev = curr;
-
-        solve(curr->right);
+    void inorder(TreeNode* &root, vector<int> &arr){
+        if(!root) return ;
+        inorder(root->left, arr);
+        arr.push_back(root->val);
+        inorder(root->right,arr);
     }
 
-    void recoverTree(TreeNode* root) {
-        solve(root);
-        if(FV && SV) swap(FV->val , SV->val);
+    void fillBST(TreeNode* &root,vector<int> &arr, int &index){
+        if(!root) return;
 
+        fillBST(root->left, arr,index);
+        if(root != NULL){
+            root->val = arr[index];
+            index++;
+        }
+
+        fillBST(root->right, arr, index);
+
+    }
+
+
+    void recoverTree(TreeNode* root) {
+        
+        vector<int> arr;
+        inorder(root,arr);
+        sort(arr.begin(), arr.end());
+
+        int index =0;
+        fillBST(root,arr, index);
     }
 };
