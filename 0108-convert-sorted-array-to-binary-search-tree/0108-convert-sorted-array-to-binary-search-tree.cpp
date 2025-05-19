@@ -30,7 +30,7 @@ public:
         int s =0;
         int n = inorder.size();
         int e = n-1;
-        int m = (s+e)/2;
+        
 
         TreeNode* root = solve(inorder, s ,e);
         return root; 
