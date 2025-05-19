@@ -12,27 +12,25 @@
 class Solution {
 public:
 
-    void solve(TreeNode* root, int &ans , TreeNode* &prev){
-
+    void solve(TreeNode* root, int &ans ,  TreeNode* &prev){
         if(!root) return ;
-        //LNR 
-        solve(root->left,ans , prev);
-        
+
+        //LNR -
+        solve(root->left, ans, prev );
+
         if(prev){
-            int minAns = abs(root->val - prev->val);
-            ans = min(ans,minAns);
+            int minAns = abs(root->val - prev->val );
+            ans = min(ans, minAns);
         }
         prev = root;
 
-        solve(root->right, ans, prev);
-
-        
+        solve(root->right, ans,prev);
     }
 
     int minDiffInBST(TreeNode* root) {
-        
-        TreeNode* prev  = NULL;
+        TreeNode* prev = NULL;
         int ans = INT_MAX;
+
         solve(root,ans, prev);
         return ans;
     }
