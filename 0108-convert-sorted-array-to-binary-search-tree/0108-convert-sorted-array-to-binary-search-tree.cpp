@@ -11,28 +11,29 @@
  */
 class Solution {
 public:
-
-    TreeNode* solve(vector<int> & inorder, int s, int e){
-        if(s> e){
-            return NULL;
-        }
-
-        int m = (s+e)/2;
-        int element = inorder[m];
-        TreeNode* root = new TreeNode(element);
+    TreeNode* solve(vector<int>& nums, int s, int e){
         
-        root->left = solve(inorder,s,m-1);
-        root->right = solve(inorder, m+1 , e);
+        if(s>e) return NULL;
+
+        int mid = (s+e)/2;
+        int element = nums[mid];
+        TreeNode* root = new TreeNode(element);
+
+
+        root ->left = solve(nums,s,mid-1);
+        root ->right = solve(nums, mid+1, e);
+
         return root;
+
     }
 
-    TreeNode* sortedArrayToBST(vector<int>& inorder) {
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
         int s =0;
-        int n = inorder.size();
+        int n = nums.size();
         int e = n-1;
-        
 
-        TreeNode* root = solve(inorder, s ,e);
-        return root; 
+        TreeNode* root = solve(nums,s, e);
+        return root;
+
     }
 };
