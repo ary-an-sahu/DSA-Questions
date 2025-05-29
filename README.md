@@ -84,6 +84,7 @@ Author - Aryan Sahu
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
@@ -112,6 +113,7 @@ Author - Aryan Sahu
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
@@ -141,6 +143,7 @@ Author - Aryan Sahu
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -161,6 +164,7 @@ Author - Aryan Sahu
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
