@@ -56,12 +56,14 @@ Author - Aryan Sahu
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Author - Aryan Sahu
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -190,4 +193,12 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
