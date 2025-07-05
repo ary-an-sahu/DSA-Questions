@@ -22,9 +22,12 @@ public:
         vector<int> ans;
         while(!minHeap.empty()){
             // pair<int,int> top = minHeap.top();
-            auto top = minHeap.top();
+            // auto top = minHeap.top();
+
+            auto [freq, num] = minHeap.top();
             minHeap.pop();
-            ans.push_back(top.second);
+            // ans.push_back(top.second);
+            ans.push_back(num);
         }
 
         return ans;
