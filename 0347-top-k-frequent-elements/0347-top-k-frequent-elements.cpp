@@ -21,7 +21,8 @@ public:
         // at this point my min heap has top k element
         vector<int> ans;
         while(!minHeap.empty()){
-            pair<int,int> top = minHeap.top();
+            // pair<int,int> top = minHeap.top();
+            auto top = minHeap.top();
             minHeap.pop();
             ans.push_back(top.second);
         }
