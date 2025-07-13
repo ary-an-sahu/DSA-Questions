@@ -49,6 +49,7 @@ Author - Aryan Sahu
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -141,6 +142,7 @@ Author - Aryan Sahu
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
