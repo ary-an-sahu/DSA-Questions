@@ -9,6 +9,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
@@ -32,6 +33,7 @@ Author - Aryan Sahu
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -148,6 +150,7 @@ Author - Aryan Sahu
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
