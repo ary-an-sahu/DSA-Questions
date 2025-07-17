@@ -8,6 +8,7 @@ Author - Aryan Sahu
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
