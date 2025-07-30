@@ -58,6 +58,7 @@ Author - Aryan Sahu
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -162,6 +163,7 @@ Author - Aryan Sahu
 | [0283-move-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -262,4 +264,8 @@ Author - Aryan Sahu
 | ------- |
 | [0136-single-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
