@@ -11,6 +11,7 @@ Author - Aryan Sahu
 | [0007-reverse-integer](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
@@ -54,6 +55,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -75,6 +77,7 @@ Author - Aryan Sahu
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -153,6 +156,7 @@ Author - Aryan Sahu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -188,6 +192,7 @@ Author - Aryan Sahu
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -248,4 +253,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
