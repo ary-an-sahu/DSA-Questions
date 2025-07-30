@@ -161,6 +161,7 @@ Author - Aryan Sahu
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
