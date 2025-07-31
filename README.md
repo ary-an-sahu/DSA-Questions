@@ -57,6 +57,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ Author - Aryan Sahu
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
@@ -80,6 +82,7 @@ Author - Aryan Sahu
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -160,6 +163,7 @@ Author - Aryan Sahu
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
@@ -261,6 +265,7 @@ Author - Aryan Sahu
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
