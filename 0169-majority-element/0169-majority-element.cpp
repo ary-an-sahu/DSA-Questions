@@ -2,7 +2,7 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         
-        // unordered_map<int,int> mp;
+        // unordered_map<int,int> mp; -> better way
       
         // int ans = -1;
 
@@ -17,7 +17,7 @@ public:
         // }
         // return ans;
 
-        // Moore's voting algorithm
+        // Moore's voting algorithm - optimal way
 
         int cnt =0;
         int el;
