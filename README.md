@@ -41,9 +41,11 @@ Author - Aryan Sahu
 | [0295-find-median-from-data-stream](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ Author - Aryan Sahu
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
 | ------- |
