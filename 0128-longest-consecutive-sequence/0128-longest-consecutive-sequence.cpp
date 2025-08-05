@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        
+        //it's a better solution 
         int lSmall = INT_MIN;
         int count =0;
         int longest =1;
