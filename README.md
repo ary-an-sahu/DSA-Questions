@@ -59,6 +59,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -166,6 +167,7 @@ Author - Aryan Sahu
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
@@ -282,4 +284,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
