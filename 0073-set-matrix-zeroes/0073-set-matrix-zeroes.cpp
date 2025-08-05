@@ -1,7 +1,7 @@
 class Solution {
 public:
     
-
+    //additional pair is required for this approach ->better solution 
     void setZeroes(vector<vector<int>>& matrix) {
         int r = matrix.size(); //rows
         int c = matrix[0].size(); //columns
