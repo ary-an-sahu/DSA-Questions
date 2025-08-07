@@ -1,6 +1,8 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
+            //optimized approach
+
             int pre = 1;//prefix product store kernga
             int suf = 1;//suffix product store krega
             int maxi = INT_MIN;
