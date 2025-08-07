@@ -36,6 +36,7 @@ Author - Aryan Sahu
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0283-move-zeroes) |
@@ -88,6 +89,7 @@ Author - Aryan Sahu
 | ------- |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -171,6 +173,7 @@ Author - Aryan Sahu
 | [0054-spiral-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0128-longest-consecutive-sequence) |
