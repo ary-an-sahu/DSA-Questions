@@ -168,6 +168,7 @@ Author - Aryan Sahu
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0054-spiral-matrix) |
@@ -216,6 +217,7 @@ Author - Aryan Sahu
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
