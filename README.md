@@ -168,6 +168,7 @@ Author - Aryan Sahu
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0048-rotate-image) |
@@ -218,6 +219,7 @@ Author - Aryan Sahu
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0098-validate-binary-search-tree) |
