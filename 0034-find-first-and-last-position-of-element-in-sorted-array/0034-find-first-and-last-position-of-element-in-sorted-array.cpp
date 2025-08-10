@@ -1,5 +1,6 @@
 class Solution {
 public:
+//Brute force like solution
     vector<int> searchRange(vector<int>& nums, int target) {
         int sIndex = -1;
         int eIndex = -1;
