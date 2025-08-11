@@ -184,6 +184,7 @@ Author - Aryan Sahu
 | [0136-single-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +232,7 @@ Author - Aryan Sahu
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
