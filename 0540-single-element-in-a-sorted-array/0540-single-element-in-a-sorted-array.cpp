@@ -2,6 +2,7 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         // let'strim down the search space first
+        // it is optimized approach -> O(logn);
         int n = nums.size();
 
         if(n == 1) return nums[0];
