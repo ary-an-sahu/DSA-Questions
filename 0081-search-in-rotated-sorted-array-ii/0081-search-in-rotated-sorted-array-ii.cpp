@@ -21,7 +21,7 @@ public:
             if(nums[low] <= nums[mid]){
                 //left hmra sorted hai
 
-                if(nums[low] <= target && nums[mid] >= target){
+                if(nums[low] <= target && nums[mid] >= target){ //yha galti hue thi
                     //right part ko trim kr do 
                     high = mid-1;
                 }else{
