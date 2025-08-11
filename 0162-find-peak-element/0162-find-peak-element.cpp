@@ -1,6 +1,8 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
+
+        //Optimized approach -> O(logn)
         int n= nums.size();
         
 
