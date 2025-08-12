@@ -196,6 +196,7 @@ Author - Aryan Sahu
 | [0560-subarray-sum-equals-k](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -242,6 +243,7 @@ Author - Aryan Sahu
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0907-koko-eating-bananas](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
