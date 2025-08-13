@@ -7,7 +7,7 @@ public:
 
         for(int i=0; i<nums.size();i++){
 
-            cnt += ceil(double(nums[i])/double(k));
+            cnt += ceil(double(nums[i])/double(k)); //yha glti hue thi
         }
         return cnt<=threshold;
     }
