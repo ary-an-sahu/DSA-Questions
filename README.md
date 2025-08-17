@@ -177,6 +177,7 @@ Author - Aryan Sahu
 | [0053-maximum-subarray](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -235,6 +236,7 @@ Author - Aryan Sahu
 | [0033-search-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0099-recover-binary-search-tree) |
@@ -339,4 +341,5 @@ Author - Aryan Sahu
 | [0048-rotate-image](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
