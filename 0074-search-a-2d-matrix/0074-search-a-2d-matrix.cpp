@@ -1,5 +1,7 @@
 class Solution {
 public:
+    // Optimized Approach
+
     bool searchElement(vector<int>&arr , int n , int target){
 
         int low = 0;
