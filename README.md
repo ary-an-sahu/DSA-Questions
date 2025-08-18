@@ -165,6 +165,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -173,6 +174,7 @@ Author - Aryan Sahu
 | ------- |
 | [0001-two-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -354,4 +356,8 @@ Author - Aryan Sahu
 | [0074-search-a-2d-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2047-find-a-peak-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
