@@ -1,5 +1,8 @@
 class Solution {
 public:
+
+    //Note -> s.substr(start index, length), -> sec parameter length hota hai index nhi keep in mind , baar baar glti kr rhe ho
+
     string removeOuterParentheses(string s) {
         int n = s.size();
         int cnt = 0;
