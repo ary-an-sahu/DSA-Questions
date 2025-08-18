@@ -1,10 +1,11 @@
 class Solution {
 public:
+    //optimized approach
     string longestCommonPrefix(vector<string>& strs) {
         if(strs.empty()){
             return "";
         }
-
+        //sorting is done so that first and last element can differ much and common between them can be extracted without finding the common of middle element between them.
         sort(strs.begin(), strs.end());
 
         string first = strs[0];
