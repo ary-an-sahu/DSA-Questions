@@ -59,6 +59,7 @@ Author - Aryan Sahu
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ Author - Aryan Sahu
 | [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
