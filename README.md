@@ -39,6 +39,7 @@ Author - Aryan Sahu
 | [0075-sort-colors](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -165,6 +166,7 @@ Author - Aryan Sahu
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
