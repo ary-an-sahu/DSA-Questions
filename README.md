@@ -13,6 +13,7 @@ Author - Aryan Sahu
 | [0048-rotate-image](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
@@ -164,6 +165,7 @@ Author - Aryan Sahu
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -296,6 +298,7 @@ Author - Aryan Sahu
 | [0410-split-array-largest-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
+| [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
