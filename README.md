@@ -126,6 +126,7 @@ Author - Aryan Sahu
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -159,6 +160,7 @@ Author - Aryan Sahu
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
@@ -179,6 +181,7 @@ Author - Aryan Sahu
 | [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
@@ -241,6 +244,7 @@ Author - Aryan Sahu
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -379,4 +383,8 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
