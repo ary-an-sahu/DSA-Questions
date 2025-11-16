@@ -11,34 +11,64 @@
  */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if(!root) return ans;
-        bool LtoRdir = true;
-        queue<TreeNode*>q;
-        q.push(root);
-        while(!q.empty()){
-            //width is basically, size of the queue used for knowing size of elements in vector
-            int width = q.size();
-            vector<int>oneLevel(width);
-            for(int i=0;i<width;i++){
+    void solve(TreeNode* root, vector<vector<int>>&ans, bool &leftToRight){
 
-                TreeNode* front = q.front() ; q.pop();
-                int index = LtoRdir? i : width- i-1;
-                oneLevel[index] = front->val;
-                if(front->left){
-                    q.push(front->left);
+        queue<TreeNode*>q;
+        vector<int>level;
+        q.push(root);
+        q.push(NULL);
+
+        while(!q.empty()){
+
+            TreeNode* top = q.front();
+            q.pop();
+
+            if(top == NULL){
+
+                if(leftToRight ==  true){
+                    ans.push_back(level);
                 }
-                if(front->right){
-                    q.push(front->right);
+                else{
+                    reverse(level.begin(), level.end());
+                    ans.push_back(level);
+                }
+                level.clear();
+
+                if(!q.empty()){
+                    q.push(NULL);
+                }
+
+                leftToRight = !leftToRight;
+
+
+
+            }
+
+            else{
+
+                level.push_back(top->val);
+
+                if(top->left ) {
+                    q.push(top->left);
+                }
+                if(top->right){
+                    q.push(top->right);
                 }
             }
-            //toggle the direction 
-            LtoRdir = !LtoRdir;
-            ans.push_back(oneLevel);
-
 
         }
+    }
+
+
+
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        
+        vector<vector<int>> ans;
+        if(root == NULL) return ans;
+
+        bool leftToRight= true;
+        solve(root,ans,leftToRight);
+
         return ans;
     }
 };
