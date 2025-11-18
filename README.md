@@ -125,6 +125,7 @@ Author - Aryan Sahu
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
@@ -163,6 +164,7 @@ Author - Aryan Sahu
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
@@ -283,6 +285,7 @@ Author - Aryan Sahu
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0162-find-peak-element) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -369,6 +372,7 @@ Author - Aryan Sahu
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
