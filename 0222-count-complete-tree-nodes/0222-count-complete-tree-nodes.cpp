@@ -12,20 +12,20 @@
 class Solution {
 public:
 
-    int solve(TreeNode* root, int &count){
+    int solve(TreeNode* root){
 
         if(root == NULL) return 0;
 
-        int left = solve(root->left, count);
-        int right = solve(root->right,count);
+        int left = solve(root->left);
+        int right = solve(root->right);
 
         return 1+ left + right;
     }
 
     int countNodes(TreeNode* root) {
         
-        int count = 0;
-        int c  = solve(root,count);
+       
+        int c  = solve(root);
         return c;
     }
 };
