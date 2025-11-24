@@ -11,17 +11,33 @@
  */
 class Solution {
 public:
-    TreeNode* prev = NULL;
+    // this solution includes the stack into that and also recursive solution previously wrote is more important to know .
 
     void flatten(TreeNode* root) {
-        
-        if(root == NULL) return ;
 
-        flatten(root->right);
-        flatten(root->left);
+        if(root == NULL) return;
 
-        root->right = prev;
-        root->left = NULL;
-        prev  = root;
+        stack<TreeNode*>st;
+        st.push(root);
+
+        while(!st.empty()){
+
+            TreeNode* curr = st.top();
+            st.pop();
+
+            if(curr->right){
+                st.push(curr->right);
+            }
+
+            if(curr->left){
+                st.push(curr->left);
+            }
+
+            if(!st.empty()){
+
+                curr->right = st.top();
+            }
+            curr->left = NULL;
+        }    
     }
 };
