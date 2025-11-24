@@ -141,6 +141,7 @@ Author - Aryan Sahu
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
@@ -184,6 +185,7 @@ Author - Aryan Sahu
 | [0652-find-duplicate-subtrees](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0975-range-sum-of-bst) |
@@ -309,6 +311,7 @@ Author - Aryan Sahu
 | [0450-delete-node-in-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0907-koko-eating-bananas](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0907-koko-eating-bananas) |
