@@ -11,59 +11,60 @@
  */
 class Solution {
 public:
-    int findMax(TreeNode* root){
-        if(!root) return -1;
+    TreeNode* helper(TreeNode* root){
 
-        while(root->right){
-            root = root->right;
+        if(root->left == NULL){
+            return root ->right;
         }
-        return root->val;
+
+        else if(root->right == NULL){
+            return root->left;
+        }
+
+        TreeNode* rightChild = root ->right;
+        TreeNode* lastRight = findLastRight(root->left);
+
+        lastRight ->right = rightChild;
+        return root->left;
     }
 
-
+    TreeNode* findLastRight(TreeNode* root){
+        if(root->right == NULL){
+            return root;
+        }
+        return findLastRight(root->right);
+    }
 
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(!root) return 0;
-        TreeNode* temp = root;
+        
+        if(root == NULL) return NULL;
 
-        if(temp->val == key){
-            //if root empty
-            if(temp->left == NULL && temp->right == NULL){
-                delete temp ;
-                return NULL;
-            }
-            //if right node only present
-            if(temp->left == NULL && temp->right != NULL){
-                TreeNode* rightAns = temp->right;
-                delete temp;
-                return rightAns;
-            }
-            //if left node only present
-            if(temp->left != NULL && temp->right == NULL){
-                TreeNode* leftAns = temp->left;
-                delete temp;
-                return leftAns;
-            }
-            // if both nodes are present 
-            if(temp->left != NULL && temp ->right != NULL){
-                int maxVal = findMax(root->left);
-                root->val = maxVal;
-
-                temp->left = deleteNode(temp->left, maxVal);
-            }
-        }
-        else{
-            //key not found 
-
-            if(key> root->val){
-                root->right = deleteNode(root->right,key);
-            }
-            if(key< root->val){
-                root->left = deleteNode(root->left,key);
-              
-            }
+        if(root->val == key){
+            return helper(root);
         }
 
-        return root;
+        TreeNode* dummy = root;
+
+        while(root!= NULL){
+            if(root->val > key){
+
+                if(root->left != NULL && root->left->val == key){
+                    root->left = helper(root->left);
+                    break;
+                }
+                else{
+                    root= root->left;
+                }
+            }else{
+                if(root->right != NULL && root->right -> val == key){
+                    root -> right = helper(root->right);
+                    break;
+                }
+                else{
+                    root = root->right;
+                }
+            }
+        }
+        return dummy;
     }
 };
