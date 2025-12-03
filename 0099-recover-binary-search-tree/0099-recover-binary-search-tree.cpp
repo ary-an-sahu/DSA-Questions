@@ -10,39 +10,44 @@
  * };
  */
 class Solution {
+private:
+    TreeNode* first;
+    TreeNode* last;
+    TreeNode* prev;
+    TreeNode* middle;
+
 public:
-    void traverse(TreeNode* root, vector<int>&store){
-        if(root == NULL) return;
-        store.push_back(root->val);
-        traverse(root->left,store);
-        traverse(root->right,store);
-    }
 
-    void solve(TreeNode* root, vector<int>&store, int &i){
+    void solve(TreeNode* root){
+        if(root == NULL)return;
 
-        if(root == NULL || i >= store.size()){
-            return;
+        solve(root->left);
+
+        if(prev!= NULL && (prev->val > root->val)){
+
+            if(first == NULL){
+                first = prev;
+                middle = root; 
+            }
+            else{
+                last = root;
+            }
         }
 
-        solve(root->left,store,i);
+        prev = root;
 
-        if(store[i] == root->val){
-            i++;
-        }else{
-            root->val = store[i];
-            i++;
-        }
-
-        solve(root->right,store,i);
+        solve(root->right);
     }
 
     void recoverTree(TreeNode* root) {
+        
+        first = middle = last = NULL;
+        prev = new TreeNode(INT_MIN);
+        solve(root);
 
+        if(first&& last ) swap(first->val , last->val);
 
-        vector<int>store;
-        traverse(root,store);
-        sort(store.begin(), store.end());
-        int i =0;
-        solve(root,store,i);
+        else if(first&& middle) swap(first->val, middle->val);
+
     }
 };
