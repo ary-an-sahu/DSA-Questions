@@ -11,34 +11,38 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* &root, vector<int> &arr){
-        if(!root) return ;
-        inorder(root->left, arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
+    void traverse(TreeNode* root, vector<int>&store){
+        if(root == NULL) return;
+        store.push_back(root->val);
+        traverse(root->left,store);
+        traverse(root->right,store);
     }
 
-    void fillBST(TreeNode* &root,vector<int> &arr, int &index){
-        if(!root) return;
+    void solve(TreeNode* root, vector<int>&store, int &i){
 
-        fillBST(root->left, arr,index);
-        if(root != NULL){
-            root->val = arr[index];
-            index++;
+        if(root == NULL || i >= store.size()){
+            return;
         }
 
-        fillBST(root->right, arr, index);
+        solve(root->left,store,i);
 
+        if(store[i] == root->val){
+            i++;
+        }else{
+            root->val = store[i];
+            i++;
+        }
+
+        solve(root->right,store,i);
     }
 
-
     void recoverTree(TreeNode* root) {
-        
-        vector<int> arr;
-        inorder(root,arr);
-        sort(arr.begin(), arr.end());
 
-        int index =0;
-        fillBST(root,arr, index);
+
+        vector<int>store;
+        traverse(root,store);
+        sort(store.begin(), store.end());
+        int i =0;
+        solve(root,store,i);
     }
 };
