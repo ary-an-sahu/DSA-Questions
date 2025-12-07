@@ -59,6 +59,7 @@ Author - Aryan Sahu
 | [0094-binary-tree-inorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
@@ -211,6 +212,7 @@ Author - Aryan Sahu
 | [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -341,6 +343,7 @@ Author - Aryan Sahu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
@@ -363,6 +366,7 @@ Author - Aryan Sahu
 | [0410-split-array-largest-sum](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0860-lemonade-change) |
 | [1285-balance-a-binary-search-tree](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [2032-largest-odd-number-in-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2032-largest-odd-number-in-string) |
