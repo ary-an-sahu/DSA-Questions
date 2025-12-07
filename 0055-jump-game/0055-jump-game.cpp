@@ -1,19 +1,21 @@
 class Solution {
 public:
     bool canJump(vector<int>& nums) {
-
-        // If only one element → you're already at last index
+        
+      
         if (nums.size() == 1) return true;
-
+        
         int maxi = nums[0];
 
-        for (int i = 1; i < nums.size(); i++) {
+        for(int i = 1; i < nums.size(); i++) {
+            
+            maxi--; 
 
-            // If we cannot reach index i
-            if (maxi < i) return false;
+            if (maxi < 0) return false;
 
-            // Update max reach
-            maxi = max(maxi, i + nums[i]);
+            if(nums[i] > maxi){
+                maxi = nums[i];
+            }
         }
 
         return true;
