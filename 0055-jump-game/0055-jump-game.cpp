@@ -13,9 +13,11 @@ public:
 
             if (maxi < 0) return false;
 
-            if(nums[i] > maxi){
-                maxi = nums[i];
-            }
+            // if(nums[i] > maxi){
+            //     maxi = nums[i];
+            // }
+
+            maxi = max(maxi , nums[i]);
         }
 
         return true;
