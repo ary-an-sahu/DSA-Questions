@@ -210,6 +210,7 @@ Author - Aryan Sahu
 | [0006-zigzag-conversion](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0205-isomorphic-strings) |
@@ -350,6 +351,7 @@ Author - Aryan Sahu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0055-jump-game) |
@@ -453,6 +455,7 @@ Author - Aryan Sahu
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
