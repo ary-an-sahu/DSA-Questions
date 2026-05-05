@@ -51,11 +51,13 @@ Author - Aryan Sahu
 | [0455-assign-cookies](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ary-an-sahu/DSA-Questions/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
@@ -285,6 +287,7 @@ Author - Aryan Sahu
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ary-an-sahu/DSA-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2047-find-a-peak-element-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ary-an-sahu/DSA-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Depth-First Search
 |  |
