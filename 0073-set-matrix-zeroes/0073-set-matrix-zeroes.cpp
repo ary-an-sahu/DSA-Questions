@@ -1,55 +1,37 @@
 class Solution {
 public:
-
-    void makeZero(vector<vector<int>>&matrix , int i , int j){
-        
-        int r = matrix.size();
-        int c = matrix[0].size();
-
-        
-        //make row zero
-        for(int k = 0 ; k<c ; k++){
-
-            matrix[i][k] = 0;
-        }
-
-        //make column zero
-
-        for(int k = 0; k<r ; k++){
-
-            matrix[k][j] = 0;
-        }
-        
-    }
-
+    
+    //additional pair is required for this approach ->better solution 
     void setZeroes(vector<vector<int>>& matrix) {
+        int r = matrix.size(); //rows
+        int c = matrix[0].size(); //columns
 
-        set<pair<int,int>>st;
-        int r = matrix.size();
-        int c = matrix[0].size();
+        vector<pair<int , int>> store;
 
-        if(r == 0 && c == 0){
-            return;
+        for(int i=0; i<r ;i++){
+            for(int j =0; j<c ; j++){
+                if(matrix[i][j] == 0){
+                    store.push_back({i,j});
+                }
+
+            }
+
         }
 
+        for(auto it: store){
 
-        for(int i=0; i<r ; i++){
+            int i= it.first;
+            int j = it.second;
 
-            for(int j = 0 ; j<c ; j++){
+            for(int m =0; m<c; m++){
+                matrix[i][m] = 0;
 
-                if(matrix[i][j] == 0){
-                    st.insert({i,j});
-                }
+            }
+            for(int n =0; n<r ; n++){
+                matrix[n][j] = 0;
             }
         }
 
-        for(auto it: st){
 
-            makeZero(matrix,it.first, it.second);
-        }
-        
-
-
-        
     }
 };
