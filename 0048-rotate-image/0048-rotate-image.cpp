@@ -1,23 +1,26 @@
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
-        vector<int>copy;
+        
+        int i = matrix.size();
+        int j = matrix[0].size();
 
-        int r = matrix.size();
-        int c = matrix[0].size();
+        vector<vector<int>> arr(i, vector<int>(j));
 
-        for(int i=0; i<c; i++){
-            for(int j=r-1; j>=0 ; j--){
-                copy.push_back(matrix[j][i]);
+
+        for(int c = 0; c<j ; c++){
+
+            for(int r = i-1 ; r>=0 ; r--){
+
+                arr[c][i-1-r] = matrix[r][c];
             }
         }
 
-        int k=0;
-        for(int i=0; i< r; i++){
-            for(int j=0; j<c; j++){
-                matrix[i][j] = copy[k];
-                k++;
+        for(int i=0; i<arr.size(); i++){
+            for(int j = 0; j <arr[0].size(); j++){
+                matrix[i][j] = arr[i][j];
             }
         }
+        
     }
 };
